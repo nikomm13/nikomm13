@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Nicolas Moreno Martinez
 
-<!--
-**nikomm13/nikomm13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Mathematics student at **Konrad Lorenz University**, Bogotá, Colombia (8th semester).  
+ Research interests: Topology, Analysis, Dynamical Systems, Data Science.  
+ Skilled in: Python, LaTeX, Linux, Julia, Manim.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Featured Projects
+- **[Semillero Topology Data Analysis](link)** → Research project on applied topology and data analysis.  
+- **[Data Science Portfolio](link)** → Public portfolio showcasing statistics and data science projects.  
+- **[Modeling](link)** → Mathematical modeling project (work in progress).  
+- **[Psychology AI Project](link)** → Collaboration on an AI project applied to psychology.  
+
+---
+
+## Tools & Technologies
+- **Languages:** Spanish native, English advance
+- **Programming Languages**: Python, Julia, LaTeX  
+- **Libraries**: Pandas, Matplotlib, PyTorch, Seaborn
+- **Systems**: Linux Ubuntu  
+- **Visualization**: Manim, Jupyter Notebook  
+
+---
+
+## 📫 Contact
+- 📍 Bogotá, Colombia  
+- ✉️ nkimorenom@gmail.com | nicolas.morenom@konradlorenz.edu.co  
+- 📱 [+57 3206617634](tel:+573206617634)  
+
+---
+
+## 🌱 Goals
+- PHD on applied maths
