@@ -1,7 +1,7 @@
 # Hi, I'm Nicolas Moreno Martinez
 
  Mathematics student at **Konrad Lorenz University**, Bogotá, Colombia (8th semester).  
- Research interests: Topology, Analysis, Dynamical Systems, Data Science.  
+ Research interests: Topology, Analysis, Dynamical Systems, Data Science, machine learning (supervized and unsupervized models).
  Skilled in: Python, LaTeX, Linux, Julia, Manim.  
 
 ---
