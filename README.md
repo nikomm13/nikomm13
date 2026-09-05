@@ -7,8 +7,8 @@
 ---
 
 ##  Featured Projects
-- **[Semillero Topology Data Analysis](link)** → Research project on applied topology and data analysis.  
-- **[Data Science Portfolio](link)** → Public portfolio showcasing statistics and data science projects.  
+- **[Semillero Topology Data Analysis](link)** → Research project on applied topology and data analysis.
+- **[Summer-2026-research](link)** → Research project in machine learning, no supervised learning.
 - **[Modeling](link)** → Mathematical modeling project (work in progress).  
 - **[Psychology AI Project](link)** → Collaboration on an AI project applied to psychology.  
 
